@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://vigorous-shaw-30caca.netlify.app"
 languageCode = "en-us"
 title = "FINis.DEV"
 theme = "hugo-theme-console"
